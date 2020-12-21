@@ -1,0 +1,4 @@
+com/example/gradecalculator/BuildConfig.java
+ com.example.gradecalculator.BuildConfig
+com/example/gradecalculator/MainActivity.java
+ com.example.gradecalculator.MainActivity
